@@ -1,0 +1,21 @@
+.box{
+    width: 400px;
+    height: 400px;
+    color: rgb(255, 255, 255);
+    background-color:rgb(255, 133, 204);
+    text-align: center;
+    border: 5px dashed rgb(16, 153, 163);
+    padding-top: 10px;
+    margin: 50px 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.box:hover{
+    background-color:rgb(249, 0, 166);
+    box-shadow: 50px 50px 40px rgb(0, 0, 0);
+    
+    
+}
